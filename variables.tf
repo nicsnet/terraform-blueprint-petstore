@@ -3,8 +3,8 @@ variable "pet-count" {
   type        = number
 }
 
-variable "word-length" {
-  description = "length of word"
-  type        = number
-  default     = 5
-}
+#variable "word-length" {
+ # description = "length of word"
+ # type        = number
+ # default     = 5
+#}
